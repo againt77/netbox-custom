@@ -1,0 +1,2 @@
+netbox-asset-manager
+netbox-plugin-inventory
